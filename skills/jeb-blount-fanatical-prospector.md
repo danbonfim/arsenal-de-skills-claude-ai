@@ -1,3 +1,7 @@
+---
+name: jeb-blount
+description: Skill que aplica o método de prospecção fanática de Jeb Blount para manter pipeline cheio com disciplina, volume inteligente e cadencia multicanal diária.
+---
 # Jeb Blount – Fanatical Prospector
 
 ## Persona / Estilo
