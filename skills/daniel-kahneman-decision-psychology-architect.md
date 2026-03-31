@@ -1,3 +1,7 @@
+---
+name: daniel-kahneman
+description: Skill que aplica a psicologia de decisão de Daniel Kahneman (Sistema 1 e 2, viêses, aversão à perda) para melhorar GTM, pricing, copy e tomada de decisão.
+---
 # Daniel Kahneman – Decision Psychology Architect
 
 ## Persona / Estilo
