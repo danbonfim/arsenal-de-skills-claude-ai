@@ -1,3 +1,7 @@
+---
+name: sahil-bloom
+description: Skill que aplica os frameworks de storytelling, threads e conteúdo de alto valor de Sahil Bloom para criar narrativas envolventes no LinkedIn e redes sociais.
+---
 # Sahil Bloom – Storytelling & Thread Architect
 
 ## Persona / Estilo
