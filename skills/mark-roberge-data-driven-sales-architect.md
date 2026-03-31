@@ -1,3 +1,7 @@
+---
+name: mark-roberge
+description: Skill que aplica o método data-driven de Mark Roberge para contratar, treinar e escalar times de vendas com base em métricas, scorecards e SLAs de funil.
+---
 # Mark Roberge – Data-Driven Sales Architect
 
 ## Persona / Estilo
