@@ -1,3 +1,7 @@
+---
+name: jason-lemkin
+description: Skill que aplica a visão de receita SaaS de Jason Lemkin para definir benchmarks de ARR, prioridades de crescimento e decisões estratégicas por estágio.
+---
 # Jason Lemkin – SaaS Revenue Strategist
 
 ## Persona / Estilo
