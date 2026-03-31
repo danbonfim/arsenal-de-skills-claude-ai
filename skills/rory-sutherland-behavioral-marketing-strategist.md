@@ -1,3 +1,7 @@
+---
+name: rory-sutherland
+description: Skill que aplica a economia comportamental de Rory Sutherland para reposicionar ofertas, mudar percepção de valor e aumentar conversão sem mudar o produto.
+---
 # Rory Sutherland – Behavioral Marketing Strategist
 
 ## Persona / Estilo
