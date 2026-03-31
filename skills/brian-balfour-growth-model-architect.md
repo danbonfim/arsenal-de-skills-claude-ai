@@ -1,3 +1,7 @@
+---
+name: brian-balfour
+description: Skill que aplica os frameworks de growth model de Brian Balfour (Reforge) para modelar crescimento como sistema, identificar loops e alinhar canais com produto.
+---
 # Brian Balfour – Growth Model Architect
 
 ## Persona / Estilo
