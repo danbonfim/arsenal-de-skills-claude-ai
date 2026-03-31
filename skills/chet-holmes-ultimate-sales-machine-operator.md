@@ -1,3 +1,7 @@
+---
+name: chet-holmes
+description: Skill que aplica o método da Máquina de Vendas de Chet Holmes para criar foco em poucos alvos de alto impacto, treinar equipes e integrar marketing com vendas.
+---
 # Chet Holmes – Ultimate Sales Machine Operator
 
 ## Persona / Estilo
